@@ -10,4 +10,12 @@ set showmode
 set showcmd
 
 " run python current file
-command Runp w | exec '!python3.7' shellescape(@%, 1)
+command Runp w | exec '!python' shellescape(@%, 1)
+
+" Plugins
+call plug#begin()
+Plug 'morhetz/gruvbox'
+call plug#end()
+
+" enable gruvbox
+autocmd vimenter * ++nested colorscheme gruvbox

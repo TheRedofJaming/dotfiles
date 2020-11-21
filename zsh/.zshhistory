@@ -1,3 +1,69 @@
 sdf
 s
 history
+ls
+Desktop
+dotfiles
+cp -ra ~/.config/ ./
+cp -r ~/.config/ ./
+sudo cp -r ~/.config/ ./
+ls
+git add nvim zsh
+git rm -f zsh/powerlevel10k
+git add nvim zsh
+clear
+git add nvim zsh
+git add nvim zsh
+git status
+git status
+clear
+man git
+git commit
+git commit -m "Point Blank"
+git branch -M main
+git git remote add origin https://github.com/TheRedofJaming/dotfiles.git
+git remote add origin https://github.com/TheRedofJaming/dotfiles.git
+git remote add origin https://github.com/TheRedofJaming/dotfiles.git
+git push -u origin main
+git rm -f zsh/.DS_Store
+git push -u origin main
+git commit -m "Point Blank"
+git config --global --edit
+git commit -m "Point Blank"
+git push
+git remote add origin https://github.com/TheRedofJaming/dotfiles.git
+git push
+git remote rm origin https://github.com/TheRedofJaming/dotfiles.git
+git remote remove origin
+git remote remove origin
+git status
+git remote add origin https://github.com/TheRedofJaming/dotfiles.git
+git push
+git push -u origin main
+git push -u origin main
+git commit -m point blank
+git commit -m "Point Blank"
+git ---amend --reset-author
+git commit --amend --reset-author
+git commit -m "Point Blank"
+git push -u origin main
+git push
+clear
+git config --global user.name "TheRedofJaming"
+git config --global user.email "TheBlue.ofJaming@gmx.de"
+git push -u origin main
+cd
+nvim
+nvim .config/nvim/init.vim
+curl https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim > plug.vim
+ls
+nvim plug.vim
+curl https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim >> plug.vim
+nvim plug.vim
+mkdir .config/nvim/autoload/
+mv plug.vim .config/nvim/autoload
+nvm
+nvim
+nvim
+nvim .config/nvim/init.vim
